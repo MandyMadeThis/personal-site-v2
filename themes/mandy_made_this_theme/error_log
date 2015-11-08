@@ -1,0 +1,1 @@
+[19-Jul-2015 05:26:32] PHP Fatal error:  Call to undefined function  get_header() in /home3/mandyth1/public_html/mandymadethis/wp-content/themes/mandy_made_this_theme/404.php on line 1
